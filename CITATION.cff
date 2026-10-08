@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-065: Proof of Efficacy Mapping to the in-toto Attestation Framework and SLSA"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-065-in-toto-slsa-mapping"
+abstract: "A Proof Protocol mapping specification defining how proof records, ProofBundle, ProofStamp, and ProofRegister artifacts can be expressed as in-toto attestations (Statement, predicate, DSSE envelope) and how SLSA Provenance and Verification Summary Attestations relate to Proof Protocol verdicts, without changing what constitutes proof."
+keywords:
+  - "Proof Protocol"
+  - "Proof of Efficacy"
+  - "in-toto"
+  - "SLSA"
+  - "attestation"
+  - "DSSE"
+  - "provenance"
+  - "verification summary attestation"
+  - "software supply chain"
+  - "interoperability"
+  - "evidence"
+  - "efficacy"
+  - "proof"
