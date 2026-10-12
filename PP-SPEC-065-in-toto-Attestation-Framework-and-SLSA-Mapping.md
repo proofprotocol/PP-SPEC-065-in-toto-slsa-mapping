@@ -119,7 +119,7 @@ The in-toto Attestation Framework is external work of the in-toto project under 
 
 SLSA is external work of the SLSA project, part of the Open Source Security Foundation. The SLSA specification is published under the **Community Specification License 1.0** (https://github.com/slsa-framework/slsa/blob/main/LICENSE.md), and the slsa.dev footer reads "© 2026 The Linux Foundation, under the terms of the Community Specification License 1.0" (https://slsa.dev/). Section 1.2 of that license states that attribution "is not required for implementations of the Specification"; it is required in derivative works based on Working Group materials.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted, licensed with conditions, or access-controlled, contributors MUST NOT copy upstream normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used.
 
