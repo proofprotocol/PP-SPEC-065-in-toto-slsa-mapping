@@ -7,7 +7,7 @@ authors:
     given-names: "Craig"
 version: "0.1"
 date-released: "2026-10-08"
-license: "CC-BY-4.0"
+license-url: "https://github.com/proofprotocol/PP-SPEC-065-in-toto-slsa-mapping/blob/main/LICENSE.md"
 repository-code: "https://github.com/proofprotocol/PP-SPEC-065-in-toto-slsa-mapping"
 abstract: "A Proof Protocol mapping specification defining how proof records, ProofBundle, ProofStamp, and ProofRegister artifacts can be expressed as in-toto attestations (Statement, predicate, DSSE envelope) and how SLSA Provenance and Verification Summary Attestations relate to Proof Protocol verdicts, without changing what constitutes proof."
 keywords:
